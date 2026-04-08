@@ -1,3 +1,0 @@
-# This is a React project using Node.js.
-# Python is not used in this directory.
-# Please refer to package.json for dependencies and run `npm install`.
